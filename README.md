@@ -25,43 +25,73 @@ I'm Sandeepa Kularathne, a student at the University of Colombo and the Open Uni
 ---
 
 ### 💻 Programming Languages
-- **Java**
-- **JavaScript**
-- **C**
-- **Swift**
-- **Python**
-- **C#** (Beginner)
-- **PHP** (Beginner)
-- **Prolog**
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java" alt="Java" /> Java</td>
+    <td><img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" /> JavaScript</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-C-333333?style=flat&logo=c" alt="C" /> C</td>
+    <td><img src="https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift" alt="Swift" /> Swift</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python" /> Python</td>
+    <td><img src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp" alt="C#" /> C# (Beginner)</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-PHP-333333?style=flat&logo=php" alt="PHP" /> PHP (Beginner)</td>
+    <td><img src="https://img.shields.io/badge/-Prolog-333333?style=flat&logo=prolog" alt="Prolog" /> Prolog</td>
+  </tr>
+</table>
 
 ### 🧰 Frameworks and Libraries
-- **Spring Boot**
-- **Angular**
-- **React** (Beginner)
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring" alt="Spring Boot" /> Spring Boot</td>
+    <td><img src="https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular" alt="Angular" /> Angular</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React" /> React (Beginner)</td>
+  </tr>
+</table>
 
 ### 🗄️ DBMS
-- **MySQL**
-- **MongoDB** (Beginner)
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" alt="MySQL" /> MySQL</td>
+    <td><img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB" /> MongoDB (Beginner)</td>
+  </tr>
+</table>
 
 ### 🎨 Miscellaneous
-- **HTML / CSS / Bootstrap 3**
-- **GitHub**
-- **AWS** (Beginner)
-- **Graphic Design (Figma, Adobe XD, Canva)**
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" alt="HTML" /> HTML / CSS / Bootstrap 3</td>
+    <td><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub" /> GitHub</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws" alt="AWS" /> AWS (Beginner)</td>
+    <td><img src="https://img.shields.io/badge/-Graphic%20Design-333333?style=flat&logo=canva" alt="Graphic Design" /> Graphic Design (Figma, Adobe XD, Canva)</td>
+  </tr>
+</table>
+
 
 ---
 
 ### 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%;">
+  <div style="width: 32%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SandeepaKularathne&show_icons=true&locale=en&layout=compact" alt="SandeepaKularathne" style="width: 100%;" />
   </div>
-  <div style="width: 48%;">
+  <div style="width: 32%;">
     <img src="https://github-readme-stats.vercel.app/api?username=SandeepaKularathne&show_icons=true&locale=en" alt="SandeepaKularathne" style="width: 100%;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandeepaKularathne&" alt="SandeepaKularathne" style="width: 100%; margin-top: 10px;" />
+  </div>
+  <div style="width: 32%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandeepaKularathne&" alt="SandeepaKularathne" style="width: 100%;" />
   </div>
 </div>
+
 
 ---
 
