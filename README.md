@@ -42,8 +42,8 @@ I'm Sandeepa Kularathne, a student at the University of Colombo and the Open Uni
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="32%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=SandeepaKularathne&show_icons=true&locale=en&layout=compact" alt="SandeepaKularathne" />
   <img width="32%" height="200" src="https://github-readme-stats.vercel.app/api?username=SandeepaKularathne&show_icons=true&locale=en" alt="SandeepaKularathne" />
+  <img width="32%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=SandeepaKularathne&show_icons=true&locale=en&layout=compact" alt="SandeepaKularathne" />
   <img width="32%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=SandeepaKularathne&" alt="SandeepaKularathne" />
 </p>
 
