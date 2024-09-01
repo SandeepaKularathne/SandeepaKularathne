@@ -1,12 +1,11 @@
 <div style="background-color: #ffffff; padding: 20px; border-radius: 10px;">
+<p align="center">
+  <img src="https://techtweekinfotech.com/wp-content/uploads/2024/05/about-full.gif" alt="Hard Working Programmer" style="width: 100%; max-width: 600px;" />
+</p>
 
 ### Hi there 👋
 
 I'm Sandeepa Kularathne, a student at the University of Colombo and the Open University of Sri Lanka. My passion lies in technology, information, and the internet. Besides my academic pursuits, I love playing chess and thrive in collaborative environments as a quick learner.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif" alt="Hard Working Programmer" style="width: 100%; max-width: 600px;" />
-</p>
 
 ---
 
