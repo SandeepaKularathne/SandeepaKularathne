@@ -1,3 +1,5 @@
+<div style="background-color: #ffffff; padding: 20px; border-radius: 10px;">
+
 ### Hi there 👋
 
 I'm Sandeepa Kularathne, a student at the University of Colombo and the Open University of Sri Lanka. My passion lies in technology, information, and the internet. Besides my academic pursuits, I love playing chess and thrive in collaborative environments as a quick learner.
