@@ -11,6 +11,43 @@ I'm Sandeepa Kularathne, a student at the University of Colombo and the Open Uni
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobexd)
+![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+
+---
+
+### 💻 Programming Languages
+- **Java**
+- **JavaScript**
+- **C**
+- **Swift**
+- **Python**
+- **C#** (Beginner)
+- **PHP** (Beginner)
+- **Prolog**
+
+### 🧰 Frameworks and Libraries
+- **Spring Boot**
+- **Angular**
+- **React** (Beginner)
+
+### 🗄️ DBMS
+- **MySQL**
+- **MongoDB** (Beginner)
+
+### 🎨 Miscellaneous
+- **HTML / CSS / Bootstrap 3**
+- **GitHub**
+- **AWS** (Beginner)
+- **Graphic Design (Figma, Adobe XD, Canva)**
 
 ---
 
