@@ -83,12 +83,14 @@ I'm Sandeepa Kularathne, a student at the University of Colombo and the Open Uni
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 32%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SandeepaKularathne&show_icons=true&locale=en&layout=compact" alt="SandeepaKularathne" style="width: 100%;" />
-  </div>
+  
   <div style="width: 32%;">
     <img src="https://github-readme-stats.vercel.app/api?username=SandeepaKularathne&show_icons=true&locale=en" alt="SandeepaKularathne" style="width: 100%;" />
   </div>
   <div style="width: 32%;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandeepaKularathne&" alt="SandeepaKularathne" style="width: 100%;" />
+  </div>
+  </div>
   </div>
 </div>
 
