@@ -1,4 +1,4 @@
-<div style="background-color: #000000; padding: 20px; border-radius: 10px;">
+<div style="background-color: #ffffff; padding: 20px; border-radius: 10px;">
 
 ### Hi there 👋
 
@@ -82,3 +82,4 @@ I'm Sandeepa Kularathne, a student at the University of Colombo and the Open Uni
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 
+</div>
