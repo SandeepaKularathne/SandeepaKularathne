@@ -53,14 +53,15 @@ I'm Sandeepa Kularathne, a student at the University of Colombo and the Open Uni
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SandeepaKularathne&show_icons=true&locale=en&layout=compact" alt="SandeepaKularathne" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SandeepaKularathne&show_icons=true&locale=en" alt="SandeepaKularathne" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SandeepaKularathne&" alt="SandeepaKularathne" />
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 48%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SandeepaKularathne&show_icons=true&locale=en&layout=compact" alt="SandeepaKularathne" style="width: 100%;" />
+  </div>
+  <div style="width: 48%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=SandeepaKularathne&show_icons=true&locale=en" alt="SandeepaKularathne" style="width: 100%;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandeepaKularathne&" alt="SandeepaKularathne" style="width: 100%; margin-top: 10px;" />
+  </div>
+</div>
 
 ---
 
