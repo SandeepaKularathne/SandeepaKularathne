@@ -2,7 +2,7 @@
 
 I'm Sandeepa Kularathne, a student at the University of Colombo and the Open University of Sri Lanka. My passion lies in technology, information, and the internet. Besides my academic pursuits, I love playing chess and thrive in collaborative environments as a quick learner.
 
-<div style="width:100%;height:0;padding-bottom:63%;position:relative;"><iframe src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD">via GIPHY</a></p>
+![Hard Working Programmer](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 
 ---
 
