@@ -1,6 +1,6 @@
 <div style="background-color: #ffffff; padding: 20px; border-radius: 10px;">
 <p align="center">
-  <img src="https://techtweekinfotech.com/wp-content/uploads/2024/05/about-full.gif" alt="Hard Working Programmer" style="width: 100%; max-width: 600px;" />
+  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Hard Working Programmer" style="width: 100%; max-width: 600px;" />
 </p>
 
 ### Hi there 👋
